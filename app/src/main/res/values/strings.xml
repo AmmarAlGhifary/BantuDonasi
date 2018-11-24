@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Bantu Donasi</string>
+    <string name="title_activity_donasi">DonasiActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Ammar Al-Ghifary</string>
+    <string name="nav_header_subtitle">pray4palu</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_palu">Pray4Palu</string>
+    <string name="bio_developer">Hello user i hope you like this app and yes thats me
+    and the other one is daffa my designer i hoped you will help other in the future</string>
+
+
+
+
+    <string-array name="nama_pulau">
+        <item>Sulawesi</item>
+        <item>Lombok</item>
+        <item>Jawa Barat</item>
+        <item>Sumatra</item>
+        <item>aceh</item>
+    </string-array>
+
+    <string-array name="detail_pulau">
+        <item>Gempa bumi dan tsunami Sulawesi 2018 adalah peristiwa gempa bumi berkekuatan 7,4 Mw[2][7] diikuti dengan tsunami yang melanda pantai barat Pulau Sulawesi, Indonesia, bagian utara pada tanggal 28 September 2018, pukul 18.02 WITA. Pusat gempa berada di 26 km utara Donggala dan 80 km barat laut kota Palu[8] dengan kedalaman 10 km. Guncangan gempa bumi dirasakan di Kabupaten Donggala, Kota Palu, Kabupaten Parigi Moutong, Kabupaten Sigi, Kabupaten Poso, Kabupaten Tolitoli, Kabupaten Mamuju bahkan hingga Kota Samarinda, Kota Balikpapan, dan Kota Makassar. Gempa memicu tsunami hingga ketinggian 5 meter di Kota Palu</item>
+        <item>Gempa bumi Lombok Juli 2018 adalah sebuah gempa darat berkekuatan 6,4 Mw[3] yang melanda Pulau Lombok, Indonesia pada tanggal 29 Juli 2018, pukul 06.47 WITA. Pusat gempa berada di 47 km timur laut Kota Mataram, Nusa Tenggara Barat dengan kedalaman 24 km. Guncangan gempa bumi dirasakan di seluruh wilayah Pulau Lombok, Pulau Bali, dan Pulau Sumbawa.
+            Gempa ini merupakan rangkaian gempa awal sebelum gempa bermagnitudo lebih besar mengguncang Lombok pada 5 Agustus 2018</item>
+        <item>Gempa Bumi Jawa Barat 2009 adalah gempa tektonik yang terjadi pada tanggal 2 September 2009 pada pukul 14:55:21 WIB dengan pusat gempa di laut sekitar 142 km barat daya Tasikmalaya, Jawa Barat berkekuatan 7,3 pada Skala Richter.[5] Gempa bumi ini dirasakan di seluruh pulau Jawa bahkan hingga ke pulau Bali.
+        Guncangan gempa bumi ini dilaporkan BMKG telah dirasakan masyarakat di seluruh pulau Jawa hingga Bali. Guncangan gempa bumi terkuat berada di selatan Cianjur, Garut, Kota Bandung serta sebagian Sukabumi dan Tasikmalaya berupa guncangan V-VI MMI. Kemudian IV-V MMI di Jakarta, Bogor, Pangandaran serta III-IV MMI di pesisir utara Jawa Barat, Banten, sebagian Jawa Tengah dan DIY. Gempa ini juga dirasakan di Jawa Timur, Bali dan sebagian Lampung. Gempa tektonik tersebut terjadi akibat tumbukan lempeng Indo-Australia terhadap lempeng Eurasia.</item>
+        <item>Gempa Bumi Sumatera Barat 2009 terjadi dengan kekuatan 7,6 Skala Richter di lepas pantai Sumatera Barat pada pukul 17:16:10 WIB tanggal 30 September 2009.[3] Gempa ini terjadi di lepas pantai Sumatera, sekitar 50 km barat laut Kota Padang.[3] Gempa menyebabkan kerusakan parah di beberapa wilayah di Sumatera Barat seperti Kabupaten Padang Pariaman, Kota Padang, Kabupaten Pesisir Selatan, Kota Pariaman, Kota Bukittinggi, Kota Padangpanjang[4], Kabupaten Agam, Kota Solok, dan Kabupaten Pasaman Barat. Menurut data Satkorlak PB, sebanyak 1.117 orang tewas akibat gempa ini yang tersebar di 3 kota  4 kabupaten di Sumatera Barat, korban luka berat mencapai 1.214 orang, luka ringan 1.688 orang, korban hilang 1 orang. Sedangkan 135.448 rumah rusak berat, 65.380 rumah rusak sedang,  78.604 rumah rusak ringan</item>
+        <item>Gempa bumi Samudra Hindia 2004 terjadi pada pukul 08:58:53 UTC tanggal 26 Desember; episentrumnya terletak di lepas pantai barat Sumatera, Indonesia. Guncangan gempa tersebut berskala 9,1–9,3 dalam skala kekuatan Moment dan IX (Violent) dalam skala intensitas Mercalli. Gempa bumi megathrust bawah laut terjadi ketika Lempeng Hindia didorong ke bawah oleh Lempeng Burma dan memicu serangkaian tsunami mematikan di sepanjang pesisir daratan yang berbatasan dengan Samudra Hindia. Gelombang tsunami yang tingginya mencapai 30 metre (100 ft) menewaskan 230.000–280.000 jiwa di 14 negara dan menenggelamkan sejumlah permukiman pesisir. Gempa dan tsunami ini merupakan salah satu bencana alam paling mematikan sepanjang sejarah. Indonesia adalah negara yang dampaknya paling parah selain Sri Lanka, India, dan Thailand.
+
+        Ini adalah gempa bumi terbesar ketiga yang pernah tercatat di seismograf dan durasi patahan terpanjang sepanjang sejarah (antara 8,3 dan 10 menit).[10] Gempa ini menyebabkan seluruh planet Bumi bergetar 1 sentimetre (0,4 inches)[11] dan memicu aktivitas gempa di berbagai wilayah, termasuk Alaska.[12] Episentrumnya terletak antara Pulau Simeulue dan Sumatera.[13] Penderitaan masyarakat dan negara terdampak mendorong berbagai negara untuk memberi bantuan kemanusiaan. Masyarakat internasional secara keseluruhan menyumbangkan lebih dari US$14 miliar (2004) dalam bentuk bantuan kemanusiaan.[14] Peristiwa ini dikenal di kalangan peneliti sebagai gempa bumi Sumatra–Andaman.[15][16] Tsunami yang terjadi sesudahnya mendapat berbagai julukan, termasuk tsunami Samudra Hindia 2004, tsunami Asia Selatan, tsunami Indonesia, tsunami Natal, dan tsunami Boxing Day.
+</item>
+    </string-array>
+
+
+</resources>
