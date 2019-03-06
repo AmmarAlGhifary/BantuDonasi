@@ -37,7 +37,7 @@ public class AdapterLombok extends RecyclerView.Adapter<AdapterLombok.ViewHolder
     public void onBindViewHolder(@NonNull final AdapterLombok.ViewHolder viewHolder, final int i) {
         viewHolder.mNamaPulau.setText(namaPulau[i]);
         Glide.with(context).load(GambarPulau[i]).into(viewHolder.logo);
-        viewHolder.itemView.setOnClickListener(new View.OnClickListener() {
+        viewHolder.itemView.setOnClickListener( new View.OnClickListener() {
         @Override
         public void onClick(View v) {
             Intent pindah = new Intent(context, DetailActivity.class);
@@ -52,7 +52,7 @@ public class AdapterLombok extends RecyclerView.Adapter<AdapterLombok.ViewHolder
 
 
     @Override
-    public int getItemCount() { return GambarPulau.length;
+    public int getItemCount() {  return GambarPulau.length;
     }
 
 
